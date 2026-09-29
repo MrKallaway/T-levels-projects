@@ -1,0 +1,20 @@
+E:\UCG\Core Paper 1\Content 2\MDAS calc\bin\Debug\MDAS calc.exe.config
+E:\UCG\Core Paper 1\Content 2\MDAS calc\bin\Debug\MDAS calc.exe
+E:\UCG\Core Paper 1\Content 2\MDAS calc\bin\Debug\MDAS calc.pdb
+E:\UCG\Core Paper 1\Content 2\MDAS calc\obj\Debug\MDAS calc.csproj.AssemblyReference.cache
+E:\UCG\Core Paper 1\Content 2\MDAS calc\obj\Debug\MDAS_calc.Form1.resources
+E:\UCG\Core Paper 1\Content 2\MDAS calc\obj\Debug\MDAS_calc.Properties.Resources.resources
+E:\UCG\Core Paper 1\Content 2\MDAS calc\obj\Debug\MDAS calc.csproj.GenerateResource.cache
+E:\UCG\Core Paper 1\Content 2\MDAS calc\obj\Debug\MDAS calc.csproj.CoreCompileInputs.cache
+E:\UCG\Core Paper 1\Content 2\MDAS calc\obj\Debug\MDAS calc.exe
+E:\UCG\Core Paper 1\Content 2\MDAS calc\obj\Debug\MDAS calc.pdb
+D:\UCG\Core Paper 1\Content 2\MDAS calc\bin\Debug\MDAS calc.exe.config
+D:\UCG\Core Paper 1\Content 2\MDAS calc\bin\Debug\MDAS calc.exe
+D:\UCG\Core Paper 1\Content 2\MDAS calc\bin\Debug\MDAS calc.pdb
+D:\UCG\Core Paper 1\Content 2\MDAS calc\obj\Debug\MDAS calc.csproj.AssemblyReference.cache
+D:\UCG\Core Paper 1\Content 2\MDAS calc\obj\Debug\MDAS_calc.Form1.resources
+D:\UCG\Core Paper 1\Content 2\MDAS calc\obj\Debug\MDAS_calc.Properties.Resources.resources
+D:\UCG\Core Paper 1\Content 2\MDAS calc\obj\Debug\MDAS calc.csproj.GenerateResource.cache
+D:\UCG\Core Paper 1\Content 2\MDAS calc\obj\Debug\MDAS calc.csproj.CoreCompileInputs.cache
+D:\UCG\Core Paper 1\Content 2\MDAS calc\obj\Debug\MDAS calc.exe
+D:\UCG\Core Paper 1\Content 2\MDAS calc\obj\Debug\MDAS calc.pdb
