@@ -1,0 +1,15 @@
+print("=" * 40)
+print("     STUDENT DEVELOPER PROFILE")
+print("=" * 40)
+
+name = input("Enter your name: ")
+language = input("Enter your language: ")
+interest = input("Enter your interests: ")
+career = input("Enter your career goal: ")
+
+print("\nMY DEVELOPER PROFILE")
+print("Name:", name)
+print("Language:", language)
+print("Interest:", interest)
+print("Career Goal:", career)
+print("Welcome to my GitHub portfolio!")
