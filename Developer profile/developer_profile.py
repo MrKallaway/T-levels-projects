@@ -34,7 +34,5 @@ def display_profile(name, language, interest, career, level):
 
 
 show_banner()
-name, language, interest, career, level = get_profile()
-display_profile(name, language, interest, career, level)
+display_profile(*get_profile())
 print("Welcome to my GitHub portfolio!")
-
