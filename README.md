@@ -1,2 +1,10 @@
-# python-learning-portfolio
-projects I make while studying at City of Westminster college for T levels in digital software development
+# Python Learning Portfolio
+
+This repository contains Python programs created during my Computer Science lessons.
+
+## Skills
+- Python
+- Selection
+- Iteration
+- Functions
+- GitHub
